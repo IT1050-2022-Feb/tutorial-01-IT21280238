@@ -17,3 +17,4 @@ int main() {
    printf("%d ", multiply(no1, no2));
    return 0;
 }
+
